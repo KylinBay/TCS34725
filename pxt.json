@@ -3,8 +3,7 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.6.10"
+        "core": "*"
     },
     "files": [
         "README.md",
