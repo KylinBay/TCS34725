@@ -1,0 +1,19 @@
+{
+    "name": "tcs34725_microbit_blockcode",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.10"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "tcs34725.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
