@@ -3,7 +3,8 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "neopixel": "github:991693552/pxt-neopixel-bluetoothallowed-master"
     },
     "files": [
         "README.md",
